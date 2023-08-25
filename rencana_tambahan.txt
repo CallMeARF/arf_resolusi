@@ -1,0 +1,4 @@
+Rencana Tambahan / Lanjutan 
+- Belajar Framework Laravel dan CI
+- Belajar Bootstrap
+- Javascript juga menarik
